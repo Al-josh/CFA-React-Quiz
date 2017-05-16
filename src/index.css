@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 50px;
+  font-family: sans-serif;
+  background-color: tomato;
+}
+
+.margin {
+  margin: 10px;
+  width: 15%;
+}
